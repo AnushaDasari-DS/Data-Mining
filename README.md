@@ -7,4 +7,4 @@ Data mining is a process of analysing and understanding the data through cleanin
 The main objective of this project is do EDA and build model that could predict the outcomes without overfiiting or underfitting.
 Proposed Methodology: Firstly, I intend to start with exploring and analysing the data and then build model that could accurately predict the outcomes. Finally, I intend to deploy the model using ONNX.
 
-This is a brief overview of my project. Please refer file 'Data Mining - Final Project - Anusha Dasari.html' for detailed documentation.
+This is a brief overview of my project. Please refer file 'Data Mining - Final Project - Anusha Dasari.ipynb' for detailed documentation.
